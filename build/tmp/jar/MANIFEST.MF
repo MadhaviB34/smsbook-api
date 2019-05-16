@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+mainClass: com.omniwyse.sms.Application
+
